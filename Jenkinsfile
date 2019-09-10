@@ -1,3 +1,4 @@
+load "RESG126/Jenkinsfile"
 pipeline {
     agent any
     stages {
